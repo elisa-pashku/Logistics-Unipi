@@ -1,0 +1,11 @@
+data;
+param TotTasks=6;
+param TotWorkers=3;
+
+param Duration:=
+1 5 
+2 6 
+3 9 
+4 7 
+5 3 
+6 2
